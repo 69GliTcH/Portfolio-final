@@ -285,6 +285,7 @@ body.light-theme {
 }
 
 .nav__menu {
+  margin: -7px;
   position: fixed;
   bottom: 1rem;
   background-color: hsla(var(--second-hue), 32%, 16%, 0.8);
